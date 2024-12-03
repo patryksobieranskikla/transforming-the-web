@@ -7,7 +7,7 @@ MISSION IMPOSSIBLE IN THE WORLD
 "Only.Together"
 
 #### Nasza Misja
-Fundacja "Only.Together" powstała z myślą o budowaniu lepszego internetu 🌐 i lepszego świata. Naszą misją jest walka z dezinformacją 👿 oraz wspieranie innowacyjnych projektów technologicznych, które mogą przekształcić sposób, w jaki korzystamy z globalnej sieci. Wierzymy, że dzięki wspólnym działaniom – lokalnie i globalnie – możemy wprowadzić realne zmiany na rzecz zrównoważonego rozwoju społeczeństwa 🌱.
+Fundacja "Only.Together" powstanie z myślą o budowaniu lepszego internetu 🌐 i lepszego świata. Naszą misją jest walka z dezinformacją 👿 oraz wspieranie innowacyjnych projektów technologicznych, które mogą przekształcić sposób, w jaki korzystamy z globalnej sieci. Wierzymy, że dzięki wspólnym działaniom – lokalnie i globalnie – możemy wprowadzić realne zmiany na rzecz zrównoważonego rozwoju społeczeństwa 🌱.
 
 #### Cele Fundacji
 1. **Chcemy wspierać walkę z dezinformacją:**
